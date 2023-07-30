@@ -1,4 +1,6 @@
-# calibreAddBooks
+<img src="Icons/CalibreAddIcon.png?raw=true" width="25%" height="25%">
+
+# Calibre Auto Add Books
  Docker to create a image that automatically add books to a Calibre Library at start.
  
  **Notes:** 
