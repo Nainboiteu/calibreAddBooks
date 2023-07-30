@@ -1,6 +1,7 @@
 # calibreAddBooks
  Docker to create a image that automatically add books to a Calibre Library at start.
- **Note:** 
+ 
+ **Notes:** 
  1. Books added to Calibre will be deleted from the ```/books_to_add``` folder
  2. If a book is not added to the Calibre Library **it will not be deleted**
  2. After the scrip execution, the container will automatically stop
