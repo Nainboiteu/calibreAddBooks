@@ -10,7 +10,7 @@
  4. You can find the script responsible for adding books to Calibre in the /app/scripts folder (addBooks.sh)
 
 
-## Container Mappings
+## Options
 | Host Folder  | Container Folder |
 | ------------- | ------------- |
 | Folder containing Calibre Library (incl. *.db)  | /calibreLibrary |
